@@ -22,9 +22,10 @@
 Those who can ... <br> DO, <br> those who can't ... <br> Talk about those who can.<br> Now, can you <br> OR <br> can you not ?
 <br><br>
 
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Vibhu0412&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+-->
 ---
 [![](https://visitcount.itsvg.in/api?id=Vibhu0412&icon=0&color=0)](https://visitcount.itsvg.in)
 
